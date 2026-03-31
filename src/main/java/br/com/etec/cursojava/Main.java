@@ -1,6 +1,6 @@
 package br.com.etec.cursojava;
 
-import br.com.etec.cursojava.modulo1_fundamentos.*;
+import br.com.etec.cursojava.modulo1_fundamentos.Aula01_Ecossistema;
 
 /**
  * PONTO DE ENTRADA: DO ZERO AO SENIOR (JAVA)
@@ -18,11 +18,36 @@ public class Main {
         // Aula02_InstalacaoTerminal.executar();
         // Aula03_VariaveisConstantes.executar();
         // Aula04_TiposPrimitivos.executar();
-        // Aula05_WrappersConversoes.executar();
+        // Aula05_Conversoes.executar();
         // Aula06_OperadoresLogicos.executar();
         // Aula07_OperadoresMath.executar();
         // Aula08_EntradaSaida.executar();
         // Aula09_MavenBuildTools.executar();
         // Aula10_ProjetoCalculadoraIMC.executar();
+
+        // ======== MÓDULO 2: Orientação a Objetos Senior ========
+        // Aula07_08_ClasseInstancias.executar();
+        // Aula09_10_Encapsulamento.executar();
+        // Aula11_12_HerancaPolimorfismo.executar();
+        // Aula13_14_AbstratasInterfaces.executar();
+        // Aula15_ProjetoGestaoOO.executar();
+
+        // ======== MÓDULO 3: Avançado & Frameworks Senior ========
+        // Aula16_17_IntroSwing.executar();
+        // Aula18_19_ArquiteturaJavaFX.executar();
+        // Aula20_22_SceneBuilderFXML.executar();
+        // Aula23_24_ProjetoDashboard.executar();
+
+        // ======== MÓDULO 4: Backend Senior (Spring) ========
+        // Aula25_26_ConectividadeJDBC.executar();
+        // Aula27_28_PadraoDAO.executar();
+        // Aula29_30_IntroORM.executar();
+
+        // ======== MÓDULO 5: Tópicos Avançados Senior ========
+        // Aula31_32_JavaWebServlets.executar();
+        // Aula33_35_APIsREST.executar();
+        // Aula36_37_SegurancaXSS.executar();
+        // Aula38_AutomacaoThreads.executar();
+        // Aula39_40_ProjetoHeroWeb.executar();
     }
 }
