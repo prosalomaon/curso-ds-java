@@ -1,6 +1,6 @@
 package br.com.etec.cursojava;
 
-import br.com.etec.cursojava.modulo1_fundamentos.Aula01_Ecossistema;
+import br.com.etec.cursojava.*;
 
 /**
  * PONTO DE ENTRADA: DO ZERO AO SENIOR (JAVA)
