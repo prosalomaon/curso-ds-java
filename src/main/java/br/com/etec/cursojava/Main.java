@@ -1,6 +1,6 @@
 package br.com.etec.cursojava;
 
-import br.com.etec.cursojava.*;
+import br.com.etec.cursojava.modulo1_fundamentos.*;
 
 /**
  * PONTO DE ENTRADA: DO ZERO AO SENIOR (JAVA)
