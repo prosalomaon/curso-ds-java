@@ -1,6 +1,6 @@
 package br.com.etec.cursojava;
 
-import br.com.etec.cursojava.modulo1_fundamentos.*;
+import br.com.etec.cursojava.modulo1_fundamentos.Aula01_Ecossistema;
 
 /**
  * PONTO DE ENTRADA: DO ZERO AO SENIOR (JAVA)
@@ -32,18 +32,18 @@ public class Main {
         // Aula13_14_AbstratasInterfaces.executar();
         // Aula15_ProjetoGestaoOO.executar();
 
-        // ======== MÓDULO 3: Avançado & Frameworks Senior ========
+        // ======== MÓDULO 3: GUI Senior ========
         // Aula16_17_IntroSwing.executar();
         // Aula18_19_ArquiteturaJavaFX.executar();
         // Aula20_22_SceneBuilderFXML.executar();
         // Aula23_24_ProjetoDashboard.executar();
 
-        // ======== MÓDULO 4: Backend Senior (Spring) ========
+        // ======== MÓDULO 4: BD Senior ========
         // Aula25_26_ConectividadeJDBC.executar();
         // Aula27_28_PadraoDAO.executar();
         // Aula29_30_IntroORM.executar();
 
-        // ======== MÓDULO 5: Tópicos Avançados Senior ========
+        // ======== MÓDULO 5: Web Senior ========
         // Aula31_32_JavaWebServlets.executar();
         // Aula33_35_APIsREST.executar();
         // Aula36_37_SegurancaXSS.executar();
